@@ -12,5 +12,7 @@ There is a twist however to winning, play the game to find out what it is!
 I didn't have time to finish off the final boss battle in the game jam, and I haven't added anything after to keep in the spirit of it, so it may be a bit underwhelming, sorry!
 ## Demo
 
-The GitHub pages deployment is unfortunately not working, so here is a video of the gameplay: https://youtu.be/YLH8YLYxvpM
+NEW 29/01/2025: Got the deployment up! You can play the game at: https://layanjethwa.github.io/counterspell
 
+
+The GitHub pages deployment is unfortunately not working, so here is a video of the gameplay: https://youtu.be/YLH8YLYxvpM
